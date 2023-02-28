@@ -20,7 +20,7 @@ For concrete examples of what you want to send throught the [Standard Events](ht
 You can install the package via Composer:
 
 ```bash
-composer require weblagence/laravel-facebook-pixel
+composer require snowsoft/laravel-facebook-pixel
 ```
 
 In Laravel 5.5 and up, the package will automatically register the service provider and facade
