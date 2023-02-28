@@ -1,5 +1,5 @@
 {
-  "name": "weblagence/laravel-facebook-pixel",
+  "name": "snowsoft/laravel-facebook-pixel",
   "type": "library",
   "description": "Facebook Pixel integration for Laravel",
   "keywords": [
@@ -8,7 +8,7 @@
     "laravel",
     "facebook pixel"
   ],
-  "homepage": "https://github.com/weblagence/laravel-facebook-pixel",
+  "homepage": "https://github.com/snowsoft/laravel-facebook-pixel",
   "license": "MIT",
   "authors": [
     {
@@ -19,7 +19,7 @@
     }
   ],
   "require": {
-    "php": "~7.1|^8.0"
+    "php": "~7.1|^8.0|^8.2"
   },
   "require-dev": {
     "phpunit/phpunit": ">=7.0",
